@@ -15,7 +15,7 @@
 /* You might need to get a temporary key for this app from https://developer.audiob.us/ and maybe
 change the AudioComponents Names in the plist to test this on a device */
 
-static NSString *const AUDIOBUS_API_KEY= @"H4sIAAAAAAAAA2WOT2/CMAxHvwryGQhdxb/epx0njSOZUNqYYq1NIidGVIjvPm/SLuP63s9PvgPeEvEEDVTbavey39WbDcyhleAHPAU3oip6P7ze3JgGVCU8nHJ3wX9mUS1XSyeeYiu5scYa3abIJUNzvEOZ0s/eCffKn7qzKEW5x9wxpUIxqH7DgOxKZDVZ2r9EDl7B6IKcXVeEkZV+UCClV+T8e1w9PudAXo01BUd9xPG0YOwpF23qxpovnKyp13UNj2/Sje8pCAEAAA==:lJ2jbSYJsgjfF9iOzboD0W/yawa12mRcM9UI57CxGK39IBPff4/xrsCrR0YzECv7776/5WRb8T4WwpBmUls6fw7DeSJ6NPfq7wKLfXKp0xGiaTxHs7DdVFnQ3rTMhmDR";
+static NSString *const AUDIOBUS_API_KEY= @"H4sIAAAAAAAAA2WOT2sCMRBHv4rMWY3b4B/2Lj0W2mNTJLsZdXA3CZNMcRG/e6dCL/X63m8ecwO8ZuIJWmi2dr2xO7t6gTl0EsOAh+hHVEVvH/urH/OAqoSHQ+nP+M8smuVq6SVQ6qS0zjij25y4Fmg/b1Cn/Lv3wiflT91Zkqo8YOmZcqUUVb9iRPY1sZoi3V+ixKBg9FGOvq/CyErfKZLSb+TyOG7uX3OgoMaZiqM+4nlaMJ6oVG3qxpkLTs7Ytd3C/QdP2jKCCAEAAA==:E65+/Yimyf+0FLB161irDJPpyp2MRq51pkkCKktKLngMyvsOEXHyRN1p0k6XAU1yJwE2n3dDVXL3OikX76Bk2a2MWkmldvWQZm6eq1RyxgALqVVoBfCE6rSlTjh0DjsC";
 
 @implementation MyAppDelegate
 
