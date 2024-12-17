@@ -1,0 +1,4 @@
+[submodule "bin/data/pd"]
+	path = bin/data/pd
+	url = git@github.com:Reinissance/remXofelia.git
+	branch = ios

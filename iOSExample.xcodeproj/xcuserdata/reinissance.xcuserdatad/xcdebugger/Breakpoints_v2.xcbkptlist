@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B33BF15-DAE2-45CF-B876-96495DE44C48"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D302415-B037-4F4A-A5DE-776212EEA9EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/MyAppDelegate.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D302415-B037-4F4A-A5DE-776212EEA9EE - d2bd398bdf9194fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "iOSExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reinissance/Documents/Bastelein/remXof/of_v0.11.2_ios_release/apps/myApps/iOSExampleLink/src/MyAppDelegate.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "1D302415-B037-4F4A-A5DE-776212EEA9EE - d2bd398bdf9194fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "iOSExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reinissance/Documents/Bastelein/remXof/of_v0.11.2_ios_release/apps/myApps/iOSExampleLink/src/MyAppDelegate.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76C5A479-3D77-4653-BD1D-96F9BA3EF90A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/MyAppDelegate.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76C5A479-3D77-4653-BD1D-96F9BA3EF90A - d2bd398bdf919514"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "iOSExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reinissance/Documents/Bastelein/remXof/of_v0.11.2_ios_release/apps/myApps/iOSExampleLink/src/MyAppDelegate.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "76C5A479-3D77-4653-BD1D-96F9BA3EF90A - d2bd398bdf919514"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "iOSExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reinissance/Documents/Bastelein/remXof/of_v0.11.2_ios_release/apps/myApps/iOSExampleLink/src/MyAppDelegate.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C58D583B-C9DE-43FC-8E80-7912E981B575"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
+            landmarkName = "ofApp::receiveList(dest, list)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
